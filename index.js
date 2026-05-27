@@ -1,1 +1,3 @@
-console.log("Bot starting...");
+setInterval(() => {
+  console.log("Bot running...");
+}, 5000);
